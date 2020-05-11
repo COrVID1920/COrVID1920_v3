@@ -1,0 +1,79 @@
+FIPS,Division,Region,Name,ABR
+1,6,3,Alabama,AL
+2,9,4,Alaska,AK
+3,0,0,nil,nil
+4,8,4,Arizona,AZ
+5,7,3,Arkansas,AR
+6,9,4,California,CA
+7,0,0,nil,nil
+8,8,4,Colorado,CO
+9,1,1,Connecticut,CT
+10,5,3,Delaware,DE
+11,5,3,District of Columbia,DC
+12,5,3,Florida,FL
+13,5,3,Georgia,GA
+14,0,0,nil,nil
+15,9,4,Hawaii,HI
+16,8,4,Idaho,ID
+17,3,2,Illinois,IL
+18,3,2,Indiana,IN
+19,4,2,Iowa,IA
+20,4,2,Kansas,KS
+21,6,3,Kentucky,KY
+22,7,3,Louisiana,LA
+23,1,1,Maine,ME
+24,5,3,Maryland,MD
+25,1,1,Massachusetts,MA
+26,3,2,Michigan,MI
+27,4,2,Minnesota,MN
+28,6,3,Mississippi,MS
+29,4,2,Missouri,MO
+30,8,4,Montana,MT
+31,4,2,Nebraska,NE
+32,8,4,Nevada,NV
+33,1,1,New Hampshire,NH
+34,2,1,New Jersey,NJ
+35,8,4,New Mexico,NM
+36,2,1,New York,NY
+37,5,3,North Carolina,NC
+38,4,2,North Dakota,ND
+39,3,2,Ohio,OH
+40,7,3,Oklahoma,OK
+41,9,4,Oregon,OR
+42,2,1,Pennsylvania,PA
+43,0,0,nil,nil
+44,1,1,Rhode Island,RI
+45,5,3,South Carolina,SC
+46,4,2,South Dakota,SD
+47,6,3,Tennessee,TN
+48,7,3,Texas,TX
+49,8,4,Utah,UT
+50,1,1,Vermont,VT
+51,5,3,Virginia,VA
+52,0,0,nil,nil
+53,9,4,Washington,WA
+54,5,3,West Virginia,WV
+55,3,2,Wisconsin,WI
+56,8,4,Wyoming,WY
+57,0,0,nil,nil
+58,0,0,nil,nil
+59,0,0,nil,nil
+60,0,0,American Samoa,AS
+61,0,0,nil,nil
+62,0,0,nil,nil
+63,0,0,nil,nil
+64,0,0,nil,nil
+65,0,0,nil,nil
+66,0,0,Guam,GU
+67,0,0,nil,nil
+68,0,0,nil,nil
+69,0,0,Northern Mariana Islands,MP
+70,0,0,nil,nil
+71,0,0,nil,nil
+72,0,0,Puerto Rico,PR
+73,0,0,nil,nil
+74,0,0,nil,nil
+75,0,0,nil,nil
+76,0,0,nil,nil
+77,0,0,nil,nil
+78,0,0,Virgin Islands,VI
